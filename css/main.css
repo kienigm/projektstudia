@@ -31,11 +31,6 @@ list-style-type: none;
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
-<<<<<<< HEAD
-} 
-img{
-    border-radius: 50%;
-=======
 section{
     background-color: lime;
     padding: 12px;
@@ -48,12 +43,18 @@ h2{
 body{
     background-color: yellow;
     
->>>>>>> master
+
 }
 img{
     margin-left: 200px;
+    border-radius: 50%;
 }
 
 p {
     color: red;
+}
+header{
+    background-color: black;
+    color: white;
+    font-size: 30px;
 }
