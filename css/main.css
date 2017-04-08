@@ -1,5 +1,5 @@
 .navigation__list {
-    
+
 list-style-type: none;
     width:  1140px;
     margin:  0 auto 20px;
@@ -30,16 +30,16 @@ list-style-type: none;
 
 .navigation__list__item__link--active {
     color: #C44D58;
-} 
+}
 <<<<<<< HEAD
-} 
+}
 img{
     border-radius: 50%;
 =======
 section{
     background-color: lime;
     padding: 12px;
-    
+
 }
 h2{
     font-family: monospace;
@@ -47,7 +47,7 @@ h2{
 }
 body{
     background-color: yellow;
-    
+
 >>>>>>> master
 }
 img{
@@ -61,3 +61,9 @@ p {
 	max-width: 400px;
 }
 
+
+}
+
+p {
+    color: red;
+}
