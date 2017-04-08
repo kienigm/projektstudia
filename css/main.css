@@ -3,22 +3,41 @@
     width:  1140px;
     margin:  0 auto 20px;
     text-align: center;
-} 
+}
 
 .navigation__list__item {
     padding: 10px;
     display: inline-block;
-} 
+}
 
 .navigation__list__item__link {
     color: #0B486B;
     text-decoration: none;
-} 
+}
 
 .navigation__list__item__link:hover {
     color: #79BD9A;
-} 
+}
 
 .navigation__list__item__link--active {
     color: #C44D58;
-} 
+}
+
+
+
+
+/************ zmiany Mateusz Kulik *******/
+
+
+header h2 p{
+    color: red;
+}
+
+
+img{
+    border-radius: 50%;
+}
+p{
+    font-size: 24px;
+    background-color: rgba(104, 157, 242, 0.3);
+}
