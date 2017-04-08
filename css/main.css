@@ -62,3 +62,8 @@ header{
     color: white;
     font-size: 30px;
 }
+
+.opis {
+    background-color: red;
+    color: white;
+}
