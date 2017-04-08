@@ -37,3 +37,7 @@ header h2 p{
 img{
     border-radius: 50%;
 }
+p{
+    font-size: 24px;
+    background-color: rgba(104, 157, 242, 0.3);
+}
