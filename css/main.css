@@ -31,8 +31,7 @@ list-style-type: none;
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
-
-
-p {
-background-color: blue;
+} 
+img{
+    border-radius: 50%;
 }
