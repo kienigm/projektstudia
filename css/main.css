@@ -22,3 +22,16 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+section{
+    background-color: lime;
+    padding: 12px;
+    
+}
+h2{
+    font-family: monospace;
+    color: greenyellow;
+}
+body{
+    background-color: yellow;
+    
+}
