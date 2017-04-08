@@ -53,6 +53,16 @@ img{
     margin-left: 200px;
 }
 
+
+p {
+	font-size: 20px;
+	display: inline-block;
+	max-width: 400px;
+}
+
+
+}
+
 p {
     color: red;
 }
